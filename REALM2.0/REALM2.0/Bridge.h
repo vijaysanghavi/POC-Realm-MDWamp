@@ -11,6 +11,5 @@
 
 #import <MDWamp/MDWamp.h>
 #import <CommonCrypto/CommonHMAC.h>
-#import "HMAC.h"
 
 #endif /* Bridge_h */
